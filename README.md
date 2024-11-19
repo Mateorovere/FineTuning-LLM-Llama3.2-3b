@@ -29,10 +29,13 @@ Install the required Python packages:
 pip install -r requirements.txt
 
 ```
+And install [PyTorch](https://pytorch.org/get-started/locally/)
 
 ### 3. Run Fine-Tuning (Optional)
 
 If you want to perform fine-tuning yourself, open the Llama_3_2_3B_Finetuning.ipynb notebook and follow the steps to train the model using the Unsloth library and the BAAI/Infinity-Instruct dataset.
+
+Both the Llama_3_2_3B_Finetuning.ipynb and the inference.ipynb are ment to run on google collab
 
 ### 4. Use the Fine-Tuned Model as a Chatbot
 Run the main.py script to interact with the fine-tuned model in the terminal:
@@ -41,7 +44,7 @@ Run the main.py script to interact with the fine-tuned model in the terminal:
 python main.py
 
 ```
-
+![Example running on main](images/main_run.png)
 ---
 
 ## Model Information
