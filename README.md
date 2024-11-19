@@ -1,6 +1,6 @@
 # Llama3.2:3B Fine-Tuning with Unsloth on BAAI/Infinity-Instruct
 
-This repository demonstrates the fine-tuning of the [Llama3.2:3B](https://github.com/example/llama3.2) model using the [BAAI/Infinity-Instruct](https://huggingface.co/datasets/BAAI/Infinity-Instruct) dataset and the **Unsloth** library. The fine-tuned model, [MateoRov/Llama3.2-3b-SFF-Infinity-MateoRovere](https://huggingface.co/MateoRov/Llama3.2-3b-SFF-Infinity-MateoRovere), is now available on Hugging Face and can be used for conversational AI tasks.
+This repository demonstrates the fine-tuning of the [Llama3.2:3B](https://huggingface.co/meta-llama/Llama-3.2-3B) model using the [BAAI/Infinity-Instruct](https://huggingface.co/datasets/BAAI/Infinity-Instruct) dataset and the **Unsloth** library. The fine-tuned model, [MateoRov/Llama3.2-3b-SFF-Infinity-MateoRovere](https://huggingface.co/MateoRov/Llama3.2-3b-SFF-Infinity-MateoRovere), is now available on Hugging Face and can be used for conversational AI tasks.
 
 ---
 
