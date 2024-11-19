@@ -56,3 +56,7 @@ The fine-tuned model is hosted on Hugging Face:
 ### Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your proposed changes.
+
+### Future improvements
+
+Making it compatible with Ollama
